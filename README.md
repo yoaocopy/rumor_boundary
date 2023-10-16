@@ -1,6 +1,7 @@
 use "gh_rumor_contiuous.ipynb" and "gh_rumor_plot.ipynb"
 
 filename with "231013034310" is the result run with following parameters:
+
 -------------
 ER graph, 
 
@@ -13,10 +14,13 @@ p_list=[0.04]
 target_infected_ratio_list=[0.1,0.2,0.3]
 
 repeat_num=500
+
 -------------
 
 running time
+
 -------------
+
 current n: 50 
  current time: 231012 01:52:41
 n:  50 p 0.04 GRAPH_TYPE:  ER SIMULATION_TYPE:  continous_time
@@ -42,6 +46,7 @@ current n: 300
 n:  300 p 0.04 GRAPH_TYPE:  ER SIMULATION_TYPE:  continous_time
 
 end time: 231013 03:44:42
+
 -------------
 
 
